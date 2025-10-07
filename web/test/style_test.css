@@ -76,7 +76,6 @@ p.top_1 {
     line-height: 1.3;
 }
 
-/* Стиль для подзаголовков h2 */
 h2.top_1 {
     font-family: 'Arial', sans-serif;
     font-size: 1.5rem;
@@ -175,7 +174,6 @@ footer {
 }
 
 
-/* Дополнительные стили для улучшения внешнего вида */
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -186,7 +184,6 @@ footer {
     font-weight: bold;
 }
 
-/* Адаптивность */
 @media (max-width: 768px) {
     header {
         padding: 0 20px;
@@ -224,4 +221,5 @@ footer {
     .footer-column:last-child {
         margin-bottom: 0;
     }
+
 }
